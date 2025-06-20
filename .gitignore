@@ -1,0 +1,14 @@
+# Virtual environment
+env/
+
+# SQLite database (optional, include if you don’t want to share it)
+memory.db
+contract_analytics.db
+model_cache/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE-specific files (if using VS Code or others)
+.vscode/
